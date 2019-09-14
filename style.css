@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(240, 247, 238);
+  color: gray;
+  font-size: 25px;
+  font-family: 'Major Mono Display', monospace;
+}
+
+p {
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 700;
+}
+
+h1 { 
+font-family: 'Major Mono Display', monospace;
+font-weight: 400
+
+}
+
+a { 
+text-decoration: none;
+color: cyan;
+ }
+
+ .btn:hover {
+  color: pink
+  text-shadow: 0px 10px 0px 10px;
+ }
+
+ footer {
+  text-align: center;
+  padding: 30px;
+  background: rgb(124, 169, 130);
+  color: lightgrey;
+}
+
+ul{ list-style-type: none; }
+
+#banner
+ {
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-shadow: 10px 10px 10px black;
+}
+
+.section
+{
+  text-align: center;
+  padding: 50px
+}
+
+
